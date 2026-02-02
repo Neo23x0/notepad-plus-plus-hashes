@@ -1,0 +1,1665 @@
+======================================================================
+NOTEPAD++ RELEASE HASHES - RUN LOG
+======================================================================
+
+Started: 2026-02-02T11:47:37.164775+00:00
+GitHub API Token: Not found
+
+----------------------------------------------------------------------
+RELEASES PROCESSED
+----------------------------------------------------------------------
+
+[v8.9.1]
+  Title: Notepad++ release 8.9.1
+  Date: 2026-01-26T14:52:34Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.9.1
+  Hashes extracted: 13
+    - 85ea19609edb04ba... (npp.8.9.1.installer.arm64.exe)
+    - 69020ccd2dae9cc6... (npp.8.9.1.installer.exe)
+    - 06c42ea6edbbc2c1... (npp.8.9.1.installer.x64.exe)
+    - e800e62c4eae095d... (npp.8.9.1.installer.x64.msi)
+    - e3ead074b4052966... (npp.8.9.1.portable.7z)
+    ... and 8 more
+
+[v8.9]
+  Title: Notepad++ release 8.9
+  Date: 2025-12-27T16:04:54Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.9
+  Hashes extracted: 13
+    - 95049a673d2e4980... (npp.8.9.installer.arm64.exe)
+    - 73c5902a9eace229... (npp.8.9.installer.exe)
+    - 8e22725756fa567c... (npp.8.9.installer.x64.exe)
+    - 76e63d28e91d3aa1... (npp.8.9.portable.arm64.zip)
+    - 72ea3fa91e6bde26... (npp.8.9.portable.x64.zip)
+    ... and 8 more
+
+[v8.8.9]
+  Title: Notepad++ release 8.8.9
+  Date: 2025-12-09T18:18:33Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.8.9
+  Hashes extracted: 13
+    - ef4824323c499c13... (npp.8.8.9.installer.arm64.exe)
+    - 71431fa7b66f8132... (npp.8.8.9.installer.exe)
+    - 2dd5473736ef51e4... (npp.8.8.9.installer.x64.exe)
+    - 95e0884b5189c40e... (npp.8.8.9.installer.x64.msi)
+    - 7c0e2bf947100fda... (npp.8.8.9.portable.7z)
+    ... and 8 more
+
+[v8.8.8]
+  Title: Notepad++ release 8.8.8
+  Date: 2025-11-18T17:08:26Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.8.8
+  Hashes extracted: 13
+    - e163697b981c3179... (npp.8.8.8.installer.arm64.exe)
+    - a19aa1cd7ecb9ca3... (npp.8.8.8.installer.exe)
+    - e22abc9af328d063... (npp.8.8.8.installer.x64.exe)
+    - 0f8baaf17a067fed... (npp.8.8.8.installer.x64.msi)
+    - 7539c3006438fd25... (npp.8.8.8.portable.7z)
+    ... and 8 more
+
+[v8.8.7]
+  Title: Notepad++ release 8.8.7
+  Date: 2025-10-20T15:23:17Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.8.7
+  Hashes extracted: 12
+    - 337bef6f2d647306... (npp.8.8.7.installer.arm64.exe)
+    - 61c3077b989e2721... (npp.8.8.7.installer.exe)
+    - 49d2531893b09cb6... (npp.8.8.7.installer.x64.exe)
+    - 4824db4c50bdc0dc... (npp.8.8.7.portable.7z)
+    - 88405138ea0afcd9... (npp.8.8.7.portable.arm64.7z)
+    ... and 7 more
+
+[v8.8.6]
+  Title: Notepad++ release 8.8.6
+  Date: 2025-10-07T12:20:16Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.8.6
+  Hashes extracted: 12
+    - 8c9f5521774fe22b... (npp.8.8.6.installer.arm64.exe)
+    - 32aa12d3c9521477... (npp.8.8.6.installer.exe)
+    - 8117c82a3821965d... (npp.8.8.6.installer.x64.exe)
+    - 79a3922dd444c6e1... (npp.8.8.6.portable.7z)
+    - d2e5536c2f783271... (npp.8.8.6.portable.arm64.7z)
+    ... and 7 more
+
+[v8.8.5]
+  Title: Notepad++ release 8.8.5
+  Date: 2025-08-13T23:35:18Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.8.5
+  Hashes extracted: 12
+    - 9e3d7a56c194cd1a... (npp.8.8.5.installer.arm64.exe)
+    - 05abc57952974d08... (npp.8.8.5.installer.exe)
+    - c6d1e5aacbf69aa1... (npp.8.8.5.installer.x64.exe)
+    - 374b9e6548a574c9... (npp.8.8.5.portable.7z)
+    - cf2390328d7c8c70... (npp.8.8.5.portable.arm64.7z)
+    ... and 7 more
+
+[v8.8.4]
+  Title: Notepad++ release 8.8.4
+  Date: 2025-08-12T10:15:50Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.8.4
+  Hashes extracted: 0
+
+[v8.8.3]
+  Title: Notepad++ release 8.8.3
+  Date: 2025-07-09T19:30:28Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.8.3
+  Hashes extracted: 12
+    - 5c310edfff1c6beb... (npp.8.8.3.installer.arm64.exe)
+    - e1df78704001bba1... (npp.8.8.3.installer.exe)
+    - 7094a07167648628... (npp.8.8.3.installer.x64.exe)
+    - 2a480885cea729fc... (npp.8.8.3.portable.arm64.zip)
+    - 1976a4f473ca8025... (npp.8.8.3.portable.x64.zip)
+    ... and 7 more
+
+[v8.8.2]
+  Title: Notepad++ release 8.8.2
+  Date: 2025-06-30T17:25:09Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.8.2
+  Hashes extracted: 12
+    - 45ccf07041b98ee6... (npp.8.8.2.installer.arm64.exe)
+    - 179613870a9ffc64... (npp.8.8.2.installer.exe)
+    - 49852273a3e98ad1... (npp.8.8.2.installer.x64.exe)
+    - 653766823529776e... (npp.8.8.2.portable.arm64.zip)
+    - 26e480873fc2bdf3... (npp.8.8.2.portable.x64.zip)
+    ... and 7 more
+
+[v8.8.1]
+  Title: Notepad++ release 8.8.1
+  Date: 2025-05-05T02:24:22Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.8.1
+  Hashes extracted: 12
+    - 3707d39b57133157... (npp.8.8.1.installer.arm64.exe)
+    - dd08c28a03654733... (npp.8.8.1.installer.exe)
+    - 605c68624939ba55... (npp.8.8.1.installer.x64.exe)
+    - d2709ba35c32cd39... (npp.8.8.1.portable.arm64.zip)
+    - a123ba8c547f62dc... (npp.8.8.1.portable.x64.zip)
+    ... and 7 more
+
+[v8.8]
+  Title: Notepad++ release 8.8
+  Date: 2025-04-28T15:30:11Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.8
+  Hashes extracted: 12
+    - d2db35341b8b1a60... (npp.8.8.installer.arm64.exe)
+    - 25128a1e120ad01c... (npp.8.8.installer.exe)
+    - e4a3c1b6d84c41ce... (npp.8.8.installer.x64.exe)
+    - e8e10819793ea4db... (npp.8.8.portable.arm64.zip)
+    - d2011791f4955115... (npp.8.8.portable.x64.zip)
+    ... and 7 more
+
+[v8.7.9]
+  Title: Notepad++ release 8.7.9
+  Date: 2025-04-02T17:00:23Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.7.9
+  Hashes extracted: 12
+    - ad6455fd60341f26... (npp.8.7.9.installer.arm64.exe)
+    - 158d92bea525b9de... (npp.8.7.9.installer.exe)
+    - d3ced3c33d91bc8f... (npp.8.7.9.installer.x64.exe)
+    - 54e52bde00219c9d... (npp.8.7.9.portable.arm64.zip)
+    - c0543076abcad4b3... (npp.8.7.9.portable.x64.zip)
+    ... and 7 more
+
+[v8.7.8]
+  Title: Notepad++ release 8.7.8
+  Date: 2025-03-08T03:16:39Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.7.8
+  Hashes extracted: 12
+    - 1b2dba9aa92930a7... (npp.8.7.8.installer.arm64.exe)
+    - 61266b355e3ee47a... (npp.8.7.8.installer.exe)
+    - 560bc667c85da047... (npp.8.7.8.installer.x64.exe)
+    - 20685123ac5f3eca... (npp.8.7.8.portable.arm64.zip)
+    - 42eed183d6806ae3... (npp.8.7.8.portable.x64.zip)
+    ... and 7 more
+
+[v8.7.7]
+  Title: Notepad++ release 8.7.7
+  Date: 2025-02-07T14:47:51Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.7.7
+  Hashes extracted: 12
+    - f092564519cfe44f... (npp.8.7.7.installer.arm64.exe)
+    - 3654426ed4146dc4... (npp.8.7.7.installer.exe)
+    - 4148e29f859b8cef... (npp.8.7.7.installer.x64.exe)
+    - 570e103cf3b66e5a... (npp.8.7.7.portable.arm64.zip)
+    - 785444e0ce60ab01... (npp.8.7.7.portable.x64.zip)
+    ... and 7 more
+
+[v8.7.6]
+  Title: Notepad++ release 8.7.6
+  Date: 2025-01-28T07:36:02Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.7.6
+  Hashes extracted: 12
+    - f6a10a56724c2a44... (npp.8.7.6.installer.arm64.exe)
+    - b6894e069027df82... (npp.8.7.6.installer.exe)
+    - 457e9434e87e1bbd... (npp.8.7.6.installer.x64.exe)
+    - 4289fa992019e048... (npp.8.7.6.portable.arm64.zip)
+    - 8947bbdf3b87f466... (npp.8.7.6.portable.x64.zip)
+    ... and 7 more
+
+[v8.7.5]
+  Title: Notepad++ release 8.7.5
+  Date: 2024-12-25T04:36:38Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.7.5
+  Hashes extracted: 12
+    - da45efaa6afca093... (npp.8.7.5.installer.arm64.exe)
+    - a2039a89c79d0f42... (npp.8.7.5.installer.exe)
+    - 595c75a188fad1b7... (npp.8.7.5.installer.x64.exe)
+    - 0c72863390292a76... (npp.8.7.5.portable.arm64.zip)
+    - 63e57c907ba20e3a... (npp.8.7.5.portable.x64.zip)
+    ... and 7 more
+
+[v8.7.4]
+  Title: Notepad++ release 8.7.4
+  Date: 2024-12-05T02:17:31Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.7.4
+  Hashes extracted: 12
+    - 51a0cf63ad46df31... (npp.8.7.4.installer.arm64.exe)
+    - 35c9e2eb615beb81... (npp.8.7.4.installer.exe)
+    - 4c895dd29a0bc5e3... (npp.8.7.4.installer.x64.exe)
+    - 8007685f94f4bafa... (npp.8.7.4.portable.arm64.zip)
+    - cb9d0f6e87cacfc3... (npp.8.7.4.portable.x64.zip)
+    ... and 7 more
+
+[v8.7.3]
+  Title: Notepad++ release 8.7.3
+  Date: 2024-12-01T16:09:08Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.7.3
+  Hashes extracted: 13
+    - 59cfc948b2852c05... (npp.8.7.3.installer.arm64.exe)
+    - aefa21cdb19e719c... (npp.8.7.3.installer.exe)
+    - 96c8ec61acb7fa58... (npp.8.7.3.installer.x64.exe)
+    - d37ec66f4ebe5b76... (npp.8.7.3.portable.arm64.zip)
+    - 4e875623de60c88b... (npp.8.7.3.portable.x64.zip)
+    ... and 8 more
+
+[v8.7.2]
+  Title: Notepad++ release 8.7.2
+  Date: 2024-11-27T03:18:32Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.7.2
+  Hashes extracted: 12
+    - 988fc7d04d805286... (npp.8.7.2.installer.arm64.exe)
+    - de67b86b5bbb9757... (npp.8.7.2.installer.exe)
+    - 108301b6aadd5a85... (npp.8.7.2.installer.x64.exe)
+    - 45176e43d0418b39... (npp.8.7.2.portable.arm64.zip)
+    - f747a90abb20de65... (npp.8.7.2.portable.x64.zip)
+    ... and 7 more
+
+[v8.7.1]
+  Title: Notepad++ release 8.7.1
+  Date: 2024-11-04T13:49:30Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.7.1
+  Hashes extracted: 24
+    - 6ba9b88ade18a9b6... (npp.8.7.1.installer.arm64.exe)
+    - 17964529838f304d... (npp.8.7.1.installer.exe)
+    - aa130d151859eccc... (npp.8.7.1.installer.x64.exe)
+    - 0f33fa0ebe4b7187... (npp.8.7.1.portable.arm64.zip)
+    - 42fcb63888bf5bb0... (npp.8.7.1.portable.x64.zip)
+    ... and 19 more
+
+[v8.7]
+  Title: Notepad++ release 8.7
+  Date: 2024-09-17T17:39:36Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.7
+  Hashes extracted: 12
+    - 35528046d244f957... (npp.8.7.installer.arm64.exe)
+    - 3ff0b334954a8ff8... (npp.8.7.installer.exe)
+    - 23d8e9bde3d08df2... (npp.8.7.installer.x64.exe)
+    - d04ed2f10e7704cd... (npp.8.7.portable.arm64.zip)
+    - 1955191d7fe07d2a... (npp.8.7.portable.x64.zip)
+    ... and 7 more
+
+[v8.6.9]
+  Title: Notepad++ release 8.6.9
+  Date: 2024-07-14T03:02:44Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.6.9
+  Hashes extracted: 12
+    - 07f138ee4eefe4dd... (npp.8.6.9.installer.arm64.exe)
+    - 5de8b54409e62ec2... (npp.8.6.9.installer.exe)
+    - 3fd473e00fa464f1... (npp.8.6.9.installer.x64.exe)
+    - 1f4899ec069fd6ee... (npp.8.6.9.portable.arm64.zip)
+    - c1478faf2a2ec8c7... (npp.8.6.9.portable.x64.zip)
+    ... and 7 more
+
+[v8.6.8]
+  Title: Notepad++ release 8.6.8
+  Date: 2024-06-04T03:06:30Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.6.8
+  Hashes extracted: 12
+    - adf24d2563ec4bd7... (npp.8.6.8.installer.arm64.exe)
+    - 1058c41934f2f805... (npp.8.6.8.installer.exe)
+    - d9fd694459508364... (npp.8.6.8.installer.x64.exe)
+    - 6d97b1b2a1b321e9... (npp.8.6.8.portable.7z)
+    - 4e9891a8396beaff... (npp.8.6.8.portable.arm64.7z)
+    ... and 7 more
+
+[v8.6.7]
+  Title: Notepad++ release 8.6.7
+  Date: 2024-05-13T00:38:23Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.6.7
+  Hashes extracted: 12
+    - af2c966648c3059f... (npp.8.6.7.installer.arm64.exe)
+    - 81612f8619d793f8... (npp.8.6.7.installer.exe)
+    - 81470eb5917705fa... (npp.8.6.7.installer.x64.exe)
+    - 80b9561eecb0cb7e... (npp.8.6.7.portable.7z)
+    - 72f15aec56c630a0... (npp.8.6.7.portable.arm64.7z)
+    ... and 7 more
+
+[v8.6.6]
+  Title: Notepad++ release 8.6.6
+  Date: 2024-05-09T23:47:53Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.6.6
+  Hashes extracted: 12
+    - 495f11d9116e6338... (npp.8.6.6.installer.arm64.exe)
+    - 732574cd602beb41... (npp.8.6.6.installer.exe)
+    - b03d9ed51c1851c6... (npp.8.6.6.installer.x64.exe)
+    - 8a91234be8056376... (npp.8.6.6.portable.7z)
+    - cc03e433b12708be... (npp.8.6.6.portable.arm64.7z)
+    ... and 7 more
+
+[v8.6.5]
+  Title: Notepad++ release 8.6.5
+  Date: 2024-03-30T00:11:00Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.6.5
+  Hashes extracted: 12
+    - 3f483ad06139a5ff... (npp.8.6.5.installer.arm64.exe)
+    - 5180a17f24df75cc... (npp.8.6.5.installer.exe)
+    - eedf45e0803ce36c... (npp.8.6.5.installer.x64.exe)
+    - 7453cb24a08ed903... (npp.8.6.5.portable.7z)
+    - 034fb34b56419f90... (npp.8.6.5.portable.arm64.7z)
+    ... and 7 more
+
+[v8.6.4]
+  Title: Notepad++ release 8.6.4
+  Date: 2024-02-20T00:53:00Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.6.4
+  Hashes extracted: 12
+    - 0857e646290cae0e... (npp.8.6.4.portable.x64.zip)
+    - bf45de274b3745e2... (npp.8.6.4.portable.arm64.zip)
+    - b1b2e5a6e2d65e12... (npp.8.6.4.portable.zip)
+    - 32dabd4169f6413b... (npp.8.6.4.installer.x64.exe)
+    - fcf1786ef1545c52... (npp.8.6.4.installer.exe)
+    ... and 7 more
+
+[v8.6.3]
+  Title: Notepad++ release 8.6.3
+  Date: 2024-02-18T16:41:22Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.6.3
+  Hashes extracted: 0
+
+[v8.6.2]
+  Title: Notepad++ release 8.6.2
+  Date: 2024-01-14T18:24:39Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.6.2
+  Hashes extracted: 12
+    - 246e74062005011d... (npp.8.6.2.portable.x64.zip)
+    - eb2b974dd0209651... (npp.8.6.2.portable.arm64.zip)
+    - 93c958e6e3f856d1... (npp.8.6.2.portable.zip)
+    - 724c134f99144308... (npp.8.6.2.installer.x64.exe)
+    - 9126e76c155f2535... (npp.8.6.2.installer.exe)
+    ... and 7 more
+
+[v8.6.1]
+  Title: Notepad++ release 8.6.1
+  Date: 2024-01-05T16:38:40Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.6.1
+  Hashes extracted: 12
+    - 173cda7b375e867f... (npp.8.6.1.portable.x64.zip)
+    - e85014d943e388c5... (npp.8.6.1.portable.arm64.zip)
+    - 54b5690427f3fc77... (npp.8.6.1.portable.zip)
+    - f1759d70f96af525... (npp.8.6.1.installer.x64.exe)
+    - 3a7b79ebb56eb3d5... (npp.8.6.1.installer.exe)
+    ... and 7 more
+
+[v8.6]
+  Title: Notepad++ release 8.6
+  Date: 2023-11-23T15:18:28Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.6
+  Hashes extracted: 12
+    - 71b4f18f319921c4... (npp.8.6.portable.x64.zip)
+    - 48273785d9884c17... (npp.8.6.portable.arm64.zip)
+    - ada5ed4abf98d842... (npp.8.6.portable.zip)
+    - 92b94f5df86bf73c... (npp.8.6.installer.x64.exe)
+    - 40a7f4e73f670b5d... (npp.8.6.installer.exe)
+    ... and 7 more
+
+[v8.5.8]
+  Title: Notepad++ release 8.5.8
+  Date: 2023-10-17T14:34:36Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.5.8
+  Hashes extracted: 12
+    - 52f4ea55ce8fbe18... (npp.8.5.8.portable.x64.zip)
+    - 4bd65b5842c1d781... (npp.8.5.8.portable.arm64.zip)
+    - d5c8ea8f38f1cad8... (npp.8.5.8.portable.zip)
+    - d50a46e7ffb799d5... (npp.8.5.8.installer.x64.exe)
+    - 3e60502bd9c2656b... (npp.8.5.8.installer.exe)
+    ... and 7 more
+
+[v8.5.7]
+  Title: Notepad++ release 8.5.7
+  Date: 2023-09-08T00:08:57Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.5.7
+  Hashes extracted: 12
+    - 745f4a1f2e25b67e... (npp.8.5.7.portable.x64.zip)
+    - e6bf96303a8cdfba... (npp.8.5.7.portable.arm64.zip)
+    - bc56df1bc290ab62... (npp.8.5.7.portable.zip)
+    - c629b9b1d1621314... (npp.8.5.7.installer.x64.exe)
+    - 94707f5f6a65be1c... (npp.8.5.7.installer.exe)
+    ... and 7 more
+
+[v8.5.6]
+  Title: Notepad++ release 8.5.6
+  Date: 2023-08-15T14:32:23Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.5.6
+  Hashes extracted: 12
+    - bee8aa85a8ae26c0... (npp.8.5.6.portable.x64.zip)
+    - 9ce514b99cc5e1ed... (npp.8.5.6.portable.arm64.zip)
+    - aae8acfd48be37b3... (npp.8.5.6.portable.zip)
+    - 9e70f821b23c9972... (npp.8.5.6.installer.x64.exe)
+    - 2d4cbbfcf4603dc3... (npp.8.5.6.installer.exe)
+    ... and 7 more
+
+[v8.5.5]
+  Title: Notepad++ release 8.5.5
+  Date: 2023-08-09T14:09:28Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.5.5
+  Hashes extracted: 0
+
+[v8.5.4]
+  Title: Notepad++ release 8.5.4
+  Date: 2023-06-18T12:30:02Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.5.4
+  Hashes extracted: 12
+    - bf826e8e32cd8a30... (npp.8.5.4.portable.x64.zip)
+    - 9e5084bfb15efef2... (npp.8.5.4.portable.arm64.zip)
+    - c674f0872ea7f253... (npp.8.5.4.portable.zip)
+    - 1df56772594a5ec2... (npp.8.5.4.installer.x64.exe)
+    - 5a3b915f1619c671... (npp.8.5.4.installer.exe)
+    ... and 7 more
+
+[v8.5.3]
+  Title: Notepad++ release 8.5.3
+  Date: 2023-05-15T05:12:41Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.5.3
+  Hashes extracted: 12
+    - e3dcd71e32b11ca3... (npp.8.5.3.portable.x64.zip)
+    - 49760b8b7af9a0bf... (npp.8.5.3.portable.arm64.zip)
+    - 524d8ec86d68c6b7... (npp.8.5.3.portable.zip)
+    - 90e1c08bee6b46a4... (npp.8.5.3.installer.x64.exe)
+    - 2df4bb1e9437d1ab... (npp.8.5.3.installer.exe)
+    ... and 7 more
+
+[v8.5.2]
+  Title: Notepad++ release 8.5.2
+  Date: 2023-04-06T12:16:53Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.5.2
+  Hashes extracted: 12
+    - 4fea8ce3b4b113fd... (npp.8.5.2.installer.arm64.exe)
+    - 884ee52151a87bd7... (npp.8.5.2.installer.exe)
+    - 572811bf01a9112c... (npp.8.5.2.installer.x64.exe)
+    - c09cb7c049f9e144... (npp.8.5.2.portable.7z)
+    - c215cf3cd031ef5b... (npp.8.5.2.portable.arm64.7z)
+    ... and 7 more
+
+[v8.5.1]
+  Title: Notepad++ release 8.5.1
+  Date: 2023-03-23T23:57:48Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.5.1
+  Hashes extracted: 12
+    - 1535ed2421095a32... (npp.8.5.1.installer.arm64.exe)
+    - 7a9c87ebf80d0f54... (npp.8.5.1.installer.exe)
+    - 89e09019b606f98a... (npp.8.5.1.installer.x64.exe)
+    - 59d1e99c35533821... (npp.8.5.1.portable.7z)
+    - 6faeb00b8ce09c03... (npp.8.5.1.portable.arm64.7z)
+    ... and 7 more
+
+[v8.5]
+  Title: Notepad++ release 8.5
+  Date: 2023-03-06T02:22:42Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.5
+  Hashes extracted: 12
+    - e8dd7a5f05b318b8... (npp.8.5.installer.arm64.exe)
+    - 561394830b56322d... (npp.8.5.installer.exe)
+    - 2591bf0259e5aa4f... (npp.8.5.installer.x64.exe)
+    - e2d0b21ace9f7d44... (npp.8.5.portable.7z)
+    - 7200827230b0d4e4... (npp.8.5.portable.arm64.7z)
+    ... and 7 more
+
+[v8.4.9]
+  Title: Notepad++ release 8.4.9
+  Date: 2023-01-31T12:03:09Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.4.9
+  Hashes extracted: 12
+    - f2871eff4214c6d5... (npp.8.4.9.installer.arm64.exe)
+    - ecb7f0fba2b6f362... (npp.8.4.9.installer.exe)
+    - 6b170127061feb08... (npp.8.4.9.installer.x64.exe)
+    - e18e38e81c8eabac... (npp.8.4.9.portable.7z)
+    - b9a728e211f81436... (npp.8.4.9.portable.arm64.7z)
+    ... and 7 more
+
+[v8.4.8]
+  Title: Notepad++ release 8.4.8
+  Date: 2022-12-25T01:23:04Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.4.8
+  Hashes extracted: 12
+    - f049bd9c49465b44... (npp.8.4.8.installer.arm64.exe)
+    - ace3e87ddabae2a2... (npp.8.4.8.installer.exe)
+    - d21718a11bc71b3f... (npp.8.4.8.installer.x64.exe)
+    - 357dcb1984cb996a... (npp.8.4.8.portable.7z)
+    - a2f73a3a7fd5deed... (npp.8.4.8.portable.arm64.7z)
+    ... and 7 more
+
+[v8.4.7]
+  Title: Notepad++ release 8.4.7
+  Date: 2022-11-08T15:12:57Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.4.7
+  Hashes extracted: 12
+    - 14d0470df92eddb7... (npp.8.4.7.installer.arm64.exe)
+    - ff623f0a7683124a... (npp.8.4.7.installer.exe)
+    - 515d2c71ece7c4c7... (npp.8.4.7.installer.x64.exe)
+    - 81d1190b9eb0a0a2... (npp.8.4.7.portable.7z)
+    - 535666c41c13ba96... (npp.8.4.7.portable.arm64.7z)
+    ... and 7 more
+
+[v8.4.6]
+  Title: Notepad++ release 8.4.6
+  Date: 2022-09-29T01:01:05Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.4.6
+  Hashes extracted: 12
+    - 679e3b051934d91d... (npp.8.4.6.installer.arm64.exe)
+    - ff55ce7631e87c2b... (npp.8.4.6.installer.exe)
+    - 7e33c60a78c48d0f... (npp.8.4.6.installer.x64.exe)
+    - bcb1a13b1d665040... (npp.8.4.6.portable.7z)
+    - b6b5b4b892d85e70... (npp.8.4.6.portable.arm64.7z)
+    ... and 7 more
+
+[v8.4.5]
+  Title: Notepad++ release 8.4.5
+  Date: 2022-09-07T03:20:27Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.4.5
+  Hashes extracted: 12
+    - b147cf62cb465faf... (npp.8.4.5.installer.arm64.exe)
+    - 71c8beb31074c53a... (npp.8.4.5.installer.exe)
+    - 69c679d75bd877e0... (npp.8.4.5.installer.x64.exe)
+    - 558eb7f73f39372f... (npp.8.4.5.portable.7z)
+    - b8f19492218f132b... (npp.8.4.5.portable.arm64.7z)
+    ... and 7 more
+
+[v8.4.4]
+  Title: Notepad++ release 8.4.4
+  Date: 2022-07-15T16:18:54Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.4.4
+  Hashes extracted: 12
+    - db03a972c3e11e1a... (npp.8.4.4.installer.arm64.exe)
+    - 8c550af844da90d0... (npp.8.4.4.installer.exe)
+    - 638bd86014970382... (npp.8.4.4.installer.x64.exe)
+    - c92d518f078adbde... (npp.8.4.4.portable.7z)
+    - 45e33884ac167242... (npp.8.4.4.portable.arm64.7z)
+    ... and 7 more
+
+[v8.4.3]
+  Title: Notepad++ release 8.4.3
+  Date: 2022-07-08T02:31:30Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.4.3
+  Hashes extracted: 12
+    - be6adab658ec1028... (npp.8.4.3.installer.arm64.exe)
+    - 367893ed67fb5854... (npp.8.4.3.installer.exe)
+    - 4499f826cc18b91d... (npp.8.4.3.installer.x64.exe)
+    - 0d08cbfc9df9838c... (npp.8.4.3.portable.7z)
+    - 21daccee24e81911... (npp.8.4.3.portable.arm64.7z)
+    ... and 7 more
+
+[v8.4.2]
+  Title: Notepad++ release 8.4.2
+  Date: 2022-06-03T16:33:36Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.4.2
+  Hashes extracted: 12
+    - 631c9390fa0107cd... (npp.8.4.2.installer.arm64.exe)
+    - 0cf1468b174c735f... (npp.8.4.2.installer.exe)
+    - a34a30aab41929ca... (npp.8.4.2.installer.x64.exe)
+    - fddefc10026af181... (npp.8.4.2.portable.7z)
+    - 63a538263e55847d... (npp.8.4.2.portable.arm64.7z)
+    ... and 7 more
+
+[v8.4.1]
+  Title: Notepad++ release 8.4.1
+  Date: 2022-05-11T13:19:43Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.4.1
+  Hashes extracted: 12
+    - 01963a95ed99c445... (npp.8.4.1.installer.arm64.exe)
+    - 400a8349194bca17... (npp.8.4.1.installer.exe)
+    - 6d80dcfdb5a979eb... (npp.8.4.1.installer.x64.exe)
+    - 83011abc209d64cc... (npp.8.4.1.portable.7z)
+    - be00b075b492ebd4... (npp.8.4.1.portable.arm64.7z)
+    ... and 7 more
+
+[v8.4]
+  Title: Notepad++ release 8.4
+  Date: 2022-04-25T22:57:09Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.4
+  Hashes extracted: 12
+    - 0fbe60fc28905471... (npp.8.4.installer.arm64.exe)
+    - 7afd56e08f9f9bca... (npp.8.4.installer.exe)
+    - 662450bbbe1d642b... (npp.8.4.installer.x64.exe)
+    - dae5125ec6579e0d... (npp.8.4.portable.7z)
+    - 79c00fb15cdd422f... (npp.8.4.portable.arm64.7z)
+    ... and 7 more
+
+[v8.3.3]
+  Title: Notepad++ release 8.3.3
+  Date: 2022-03-14T23:21:50Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.3.3
+  Hashes extracted: 12
+    - 3fbd8c1d848efdff... (npp.8.3.3.portable.7z)
+    - 2cb64b416f215d25... (npp.8.3.3.portable.arm64.7z)
+    - e437a7e4942e92e1... (npp.8.3.3.portable.minimalist.7z)
+    - e6f053c9ee7cde79... (npp.8.3.3.portable.minimalist.arm64.7z)
+    - 7876e7de5bd5f735... (npp.8.3.3.portable.minimalist.x64.7z)
+    ... and 7 more
+
+[v8.3.2]
+  Title: Notepad++ release 8.3.2
+  Date: 2022-02-27T15:20:30Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.3.2
+  Hashes extracted: 0
+
+[v8.3.1]
+  Title: Notepad++ release 8.3.1
+  Date: 2022-02-15T15:41:24Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.3.1
+  Hashes extracted: 12
+    - 022ea0ed07bf3bcc... (npp.8.3.1.portable.7z)
+    - ac734071367c8e49... (npp.8.3.1.portable.arm64.7z)
+    - 05f8c72f3a8a3208... (npp.8.3.1.portable.minimalist.7z)
+    - 72c93255a7f90955... (npp.8.3.1.portable.minimalist.arm64.7z)
+    - 3ad8499b33fddd0c... (npp.8.3.1.portable.minimalist.x64.7z)
+    ... and 7 more
+
+[v8.3]
+  Title: Notepad++ release 8.3
+  Date: 2022-02-03T22:40:41Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.3
+  Hashes extracted: 0
+
+[v8.2.1]
+  Title: Notepad++ release 8.2.1
+  Date: 2022-01-24T15:02:13Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.2.1
+  Hashes extracted: 12
+    - 99bf377174cf44a9... (npp.8.2.1.portable.7z)
+    - 610e5cc54987d451... (npp.8.2.1.portable.arm64.7z)
+    - 8b7dc25c2e31c009... (npp.8.2.1.portable.minimalist.7z)
+    - 751b795d2e46a9f3... (npp.8.2.1.portable.minimalist.arm64.7z)
+    - 2f0a6052986d3cd3... (npp.8.2.1.portable.minimalist.x64.7z)
+    ... and 7 more
+
+[v8.2]
+  Title: Notepad++ release 8.2
+  Date: 2021-12-31T23:09:17Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.2
+  Hashes extracted: 12
+    - 98a376305845b31d... (npp.8.2.portable.7z)
+    - 183aad8381044c48... (npp.8.2.portable.arm64.7z)
+    - b0be627c52e715ee... (npp.8.2.portable.minimalist.7z)
+    - f902abbf59b8c649... (npp.8.2.portable.minimalist.arm64.7z)
+    - 866b7b926a0f94ee... (npp.8.2.portable.minimalist.x64.7z)
+    ... and 7 more
+
+[v8.1.9.3]
+  Title: Notepad++ release 8.1.9.3
+  Date: 2021-12-08T20:03:16Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.1.9.3
+  Hashes extracted: 12
+    - 5df537c5ed22227c... (npp.8.1.9.3.portable.7z)
+    - 4e0291b08ffdf069... (npp.8.1.9.3.portable.arm64.7z)
+    - 2499694ceaa3eb7c... (npp.8.1.9.3.portable.minimalist.7z)
+    - 1f533bc4e8af7e5a... (npp.8.1.9.3.portable.minimalist.arm64.7z)
+    - 5585f00aa5838642... (npp.8.1.9.3.portable.minimalist.x64.7z)
+    ... and 7 more
+
+[v8.1.9.2]
+  Title: Notepad++ release 8.1.9.2
+  Date: 2021-11-21T14:07:25Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.1.9.2
+  Hashes extracted: 12
+    - 4151d4d023e8f2cb... (npp.8.1.9.2.portable.7z)
+    - 4c9dc6847fc84c03... (npp.8.1.9.2.portable.arm64.7z)
+    - 8bc7656790317fe1... (npp.8.1.9.2.portable.minimalist.7z)
+    - 9a56cdda39dd7d46... (npp.8.1.9.2.portable.minimalist.arm64.7z)
+    - 65ca67909e7fe2fb... (npp.8.1.9.2.portable.minimalist.x64.7z)
+    ... and 7 more
+
+[v8.1.9.1]
+  Title: Notepad++ release 8.1.9.1
+  Date: 2021-11-13T18:05:27Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.1.9.1
+  Hashes extracted: 0
+
+[v8.1.9]
+  Title: Notepad++ release 8.1.9
+  Date: 2021-10-21T22:10:40Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.1.9
+  Hashes extracted: 0
+
+[v8.1.8]
+  Title: Notepad++ release 8.1.8
+  Date: 2021-10-19T17:19:54Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.1.8
+  Hashes extracted: 0
+
+[v8.1.7]
+  Title: Notepad++ release 8.1.7
+  Date: 2021-10-15T09:52:38Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.1.7
+  Hashes extracted: 0
+
+[v8.1.6]
+  Title: Notepad++ release 8.1.6
+  Date: 2021-10-13T13:53:11Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.1.6
+  Hashes extracted: 0
+
+[v8.1.5]
+  Title: Notepad++ release 8.1.5
+  Date: 2021-09-27T11:43:53Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.1.5
+  Hashes extracted: 12
+    - 4e274f7082343f5b... (npp.8.1.5.portable.7z)
+    - 007a18947b7a0e7f... (npp.8.1.5.portable.arm64.7z)
+    - 384e4c180d98828a... (npp.8.1.5.portable.minimalist.7z)
+    - c4278218f2e7b322... (npp.8.1.5.portable.minimalist.arm64.7z)
+    - dcc91f9422cfc2fd... (npp.8.1.5.portable.minimalist.x64.7z)
+    ... and 7 more
+
+[v8.1.4]
+  Title: Notepad++ release 8.1.4
+  Date: 2021-08-25T00:20:39Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.1.4
+  Hashes extracted: 12
+    - 4858acd7bb8630f7... (npp.8.1.4.portable.7z)
+    - d98a7b53f419f2d1... (npp.8.1.4.portable.arm64.7z)
+    - 51e0cefee8fa4487... (npp.8.1.4.portable.minimalist.7z)
+    - 1d09849f0bb3639a... (npp.8.1.4.portable.minimalist.arm64.7z)
+    - 2a7c15dcc4d3cfe9... (npp.8.1.4.portable.minimalist.x64.7z)
+    ... and 7 more
+
+[v8.1.3]
+  Title: Notepad++ release 8.1.3
+  Date: 2021-08-12T17:47:35Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.1.3
+  Hashes extracted: 12
+    - 5d350268d08bad0e... (npp.8.1.3.portable.7z)
+    - eb598e4312862cd5... (npp.8.1.3.portable.arm64.7z)
+    - dbe5231989299734... (npp.8.1.3.portable.minimalist.7z)
+    - 117e127b708ac06f... (npp.8.1.3.portable.minimalist.arm64.7z)
+    - c66d7f981167e4d6... (npp.8.1.3.portable.minimalist.x64.7z)
+    ... and 7 more
+
+[v8.1.2]
+  Title: Notepad++ release 8.1.2
+  Date: 2021-07-19T02:12:03Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.1.2
+  Hashes extracted: 12
+    - b45809531127ff27... (npp.8.1.2.portable.7z)
+    - 87e4695909ffc52d... (npp.8.1.2.portable.arm64.7z)
+    - 3ba7f80a5dfc3807... (npp.8.1.2.portable.minimalist.7z)
+    - 7e91c608b85cbbaa... (npp.8.1.2.portable.minimalist.arm64.7z)
+    - 5288d4aee41fb053... (npp.8.1.2.portable.minimalist.x64.7z)
+    ... and 7 more
+
+[v8.1.1]
+  Title: Notepad++ release 8.1.1
+  Date: 2021-07-04T14:08:39Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.1.1
+  Hashes extracted: 12
+    - 0d772c4896cddabd... (npp.8.1.1.portable.7z)
+    - 8f65c67d0ae88b9e... (npp.8.1.1.portable.arm64.7z)
+    - e603e7716ee84d91... (npp.8.1.1.portable.minimalist.7z)
+    - bfde37d2e122db92... (npp.8.1.1.portable.minimalist.arm64.7z)
+    - 0ee5693775851943... (npp.8.1.1.portable.minimalist.x64.7z)
+    ... and 7 more
+
+[v8.1]
+  Title: Notepad++ release 8.1
+  Date: 2021-06-17T00:43:52Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8.1
+  Hashes extracted: 12
+    - 18a3774be1ed5ac7... (npp.8.1.portable.7z)
+    - 9947fda501d6eecb... (npp.8.1.portable.arm64.7z)
+    - b76a4d08d6eb0b37... (npp.8.1.portable.minimalist.7z)
+    - fd0326b4069e868b... (npp.8.1.portable.minimalist.arm64.7z)
+    - 624cde5493cc3bcb... (npp.8.1.portable.minimalist.x64.7z)
+    ... and 7 more
+
+[v8]
+  Title: Notepad++ release 8.0
+  Date: 2021-06-06T23:44:38Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v8
+  Hashes extracted: 12
+    - 5479cf47195f3fce... (npp.8.0.portable.7z)
+    - 09a42cdb88380a80... (npp.8.0.portable.arm64.7z)
+    - d8b9353af0914957... (npp.8.0.portable.minimalist.7z)
+    - c402b79832d29c57... (npp.8.0.portable.minimalist.arm64.7z)
+    - 88402b477fb91e8d... (npp.8.0.portable.minimalist.x64.7z)
+    ... and 7 more
+
+[v7.9.5]
+  Title: Notepad++ release 7.9.5
+  Date: 2021-03-22T21:56:57Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.9.5
+  Hashes extracted: 8
+    - ae009cc294b86098... (npp.7.9.5.portable.7z)
+    - 32e31d2e5673dec3... (npp.7.9.5.portable.minimalist.7z)
+    - 6dc828f4353f5053... (npp.7.9.5.portable.minimalist.x64.7z)
+    - 97dd11194927850b... (npp.7.9.5.portable.x64.7z)
+    - e44caeefeed617d7... (npp.7.9.5.installer.exe)
+    ... and 3 more
+
+[v7.9.4]
+  Title: Notepad++ release 7.9.4
+  Date: 2021-03-15T00:43:13Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.9.4
+  Hashes extracted: 8
+    - 2e7b361ed55522a6... (npp.7.9.4.portable.7z)
+    - 7b0e5c2602fccf93... (npp.7.9.4.portable.minimalist.7z)
+    - 4e73bb6a90cfd6eb... (npp.7.9.4.portable.minimalist.x64.7z)
+    - ab641a600e2ac896... (npp.7.9.4.portable.x64.7z)
+    - 2561bb7ece69440d... (npp.7.9.4.installer.exe)
+    ... and 3 more
+
+[v7.9.3]
+  Title: Notepad++ release 7.9.3
+  Date: 2021-02-15T00:49:52Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.9.3
+  Hashes extracted: 8
+    - a46e26522e37d867... (npp.7.9.3.portable.7z)
+    - 55b1704cf501f6b4... (npp.7.9.3.portable.minimalist.7z)
+    - f39656d80f5436ea... (npp.7.9.3.portable.minimalist.x64.7z)
+    - 33609ee4e619cd3c... (npp.7.9.3.portable.x64.7z)
+    - 9daaf00b40e848ea... (npp.7.9.3.installer.exe)
+    ... and 3 more
+
+[v7.9.2]
+  Title: Notepad++ release 7.9.2
+  Date: 2020-12-31T23:08:35Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.9.2
+  Hashes extracted: 8
+    - 053213adff5a2237... (npp.7.9.2.portable.7z)
+    - 90e2886694025f5c... (npp.7.9.2.portable.minimalist.7z)
+    - 65dfa144abee5eba... (npp.7.9.2.portable.minimalist.x64.7z)
+    - 16b6314de67c4b2d... (npp.7.9.2.portable.x64.7z)
+    - a797da6e8cebe364... (npp.7.9.2.installer.exe)
+    ... and 3 more
+
+[v7.9.1]
+  Title: Notepad++ release 7.9.1
+  Date: 2020-11-02T00:46:21Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.9.1
+  Hashes extracted: 8
+    - f7ea8518e21e42f5... (npp.7.9.1.installer.exe)
+    - 751d3634a76ea518... (npp.7.9.1.installer.x64.exe)
+    - 9f95a8296eaf2f5b... (npp.7.9.1.portable.7z)
+    - 4ec3f4d629887e9c... (npp.7.9.1.portable.minimalist.7z)
+    - 16d6deb781107e40... (npp.7.9.1.portable.minimalist.x64.7z)
+    ... and 3 more
+
+[v7.9]
+  Title: Notepad++ release 7.9
+  Date: 2020-09-27T22:53:12Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.9
+  Hashes extracted: 8
+    - 98b7de202a8046be... (npp.7.9.portable.7z)
+    - 5141aa0203ebdf4b... (npp.7.9.portable.minimalist.7z)
+    - 3be2a24b8621b25d... (npp.7.9.portable.minimalist.x64.7z)
+    - 50de93f2ea36ea68... (npp.7.9.portable.x64.7z)
+    - 4747b67f7e2ca69b... (npp.7.9.installer.exe)
+    ... and 3 more
+
+[v7.8.9]
+  Title: Notepad++ release 7.8.9
+  Date: 2020-07-16T10:15:32Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.8.9
+  Hashes extracted: 8
+    - 3eb9b47af471c025... (npp.7.8.9.bin.7z)
+    - 2205134cf960cf2c... (npp.7.8.9.bin.minimalist.7z)
+    - ace9254823c29dfa... (npp.7.8.9.bin.minimalist.x64.7z)
+    - c6b437980ce8424f... (npp.7.8.9.bin.x64.7z)
+    - 202780513e4208ca... (npp.7.8.9.bin.x64.zip)
+    ... and 3 more
+
+[v7.8.8]
+  Title: Notepad++ release 7.8.8
+  Date: 2020-06-28T15:43:04Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.8.8
+  Hashes extracted: 8
+    - ec42a7452c7a9044... (npp.7.8.8.bin.7z)
+    - 11ace7308ce041c4... (npp.7.8.8.bin.minimalist.7z)
+    - 38294a3164aeb806... (npp.7.8.8.bin.minimalist.x64.7z)
+    - 613f9ab2570e97f1... (npp.7.8.8.bin.x64.7z)
+    - 3506f9b67bc03c75... (npp.7.8.8.bin.x64.zip)
+    ... and 3 more
+
+[v7.8.7]
+  Title: Notepad++ release 7.8.7
+  Date: 2020-06-08T22:10:50Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.8.7
+  Hashes extracted: 8
+    - 3d7f3553b3d9f938... (npp.7.8.7.bin.7z)
+    - b2ccb9f66aa2ffb9... (npp.7.8.7.bin.minimalist.7z)
+    - 9b198e97f77c92ea... (npp.7.8.7.bin.minimalist.x64.7z)
+    - 0ad7b5db3dc41891... (npp.7.8.7.bin.x64.7z)
+    - 1d9fcd0936760986... (npp.7.8.7.bin.x64.zip)
+    ... and 3 more
+
+[v7.8.6]
+  Title: Notepad++ release 7.8.6
+  Date: 2020-04-21T16:40:35Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.8.6
+  Hashes extracted: 8
+    - 15dc193d0146a79d... (npp.7.8.6.bin.7z)
+    - fed52ff28e75f301... (npp.7.8.6.bin.minimalist.7z)
+    - f23b54c168c80e16... (npp.7.8.6.bin.minimalist.x64.7z)
+    - a0bbd13925ed3f70... (npp.7.8.6.bin.x64.7z)
+    - 1f4a8f4c4162a314... (npp.7.8.6.bin.x64.zip)
+    ... and 3 more
+
+[v7.8.5]
+  Title: Notepad++ release 7.8.5
+  Date: 2020-03-06T00:23:37Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.8.5
+  Hashes extracted: 8
+    - 9254115e7a1c52a8... (npp.7.8.5.bin.7z)
+    - 64b0bf6eac6eaa8c... (npp.7.8.5.bin.minimalist.7z)
+    - d4d5ec62ad4dea2a... (npp.7.8.5.bin.minimalist.x64.7z)
+    - ed2de42ec25eca63... (npp.7.8.5.bin.x64.7z)
+    - 6938698d9b55cc23... (npp.7.8.5.bin.x64.zip)
+    ... and 3 more
+
+[v7.8.4]
+  Title: Notepad++ release 7.8.4
+  Date: 2020-01-30T01:45:08Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.8.4
+  Hashes extracted: 8
+    - 421dca4dcfb9ca8a... (npp.7.8.4.bin.7z)
+    - 1b9fe9aa214bba6e... (npp.7.8.4.bin.minimalist.7z)
+    - 048a44c5ba245bd9... (npp.7.8.4.bin.minimalist.x64.7z)
+    - 5e2658a49404fc1b... (npp.7.8.4.bin.x64.7z)
+    - 802b65fe2071fa23... (npp.7.8.4.bin.x64.zip)
+    ... and 3 more
+
+[v7.8.3]
+  Title: Notepad++ release 7.8.3
+  Date: 2020-01-15T23:00:09Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.8.3
+  Hashes extracted: 8
+    - 8d983118efc265e8... (npp.7.8.3.bin.7z)
+    - 01579b7fff7cff7f... (npp.7.8.3.bin.minimalist.7z)
+    - f1dfce5cb79f4cb6... (npp.7.8.3.bin.minimalist.x64.7z)
+    - 0ede665a3d05e4d5... (npp.7.8.3.bin.x64.7z)
+    - 8395a5e62c29a585... (npp.7.8.3.bin.x64.zip)
+    ... and 3 more
+
+[v7.8.2]
+  Title: Notepad++ release 7.8.2
+  Date: 2019-12-05T12:10:05Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.8.2
+  Hashes extracted: 8
+    - fde0533918a9b2cf... (npp.7.8.2.bin.7z)
+    - 0cdbf68dea8c45bb... (npp.7.8.2.bin.minimalist.7z)
+    - e09a1db2dbc3d4e4... (npp.7.8.2.bin.minimalist.x64.7z)
+    - e51ecd57ae3f13d7... (npp.7.8.2.bin.x64.7z)
+    - a667aa16bea8d6ba... (npp.7.8.2.bin.x64.zip)
+    ... and 3 more
+
+[v7.8.1]
+  Title: Notepad++ release 7.8.1
+  Date: 2019-10-29T01:46:36Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.8.1
+  Hashes extracted: 8
+    - 3a422d7fb6fb9339... (npp.7.8.1.bin.7z)
+    - 29334d82f9fb7ca1... (npp.7.8.1.bin.minimalist.7z)
+    - 2d8d7130b7f4db1c... (npp.7.8.1.bin.minimalist.x64.7z)
+    - 3c858379762e4bf8... (npp.7.8.1.bin.x64.7z)
+    - c20e96ec2690fb7c... (npp.7.8.1.bin.x64.zip)
+    ... and 3 more
+
+[v7.8]
+  Title: Notepad++ release 7.8
+  Date: 2019-10-10T23:57:10Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.8
+  Hashes extracted: 8
+    - 01f095e72b2df940... (npp.7.8.bin.7z)
+    - 2e494e86b7005299... (npp.7.8.bin.minimalist.7z)
+    - 60009cdee60ea058... (npp.7.8.bin.minimalist.x64.7z)
+    - 520974c89783d127... (npp.7.8.bin.x64.7z)
+    - 75a6cb06b14a0a87... (npp.7.8.bin.x64.zip)
+    ... and 3 more
+
+[v7.7.1]
+  Title: Notepad++ release 7.7.1
+  Date: 2019-06-20T00:17:18Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.7.1
+  Hashes extracted: 8
+    - f0af67993bd5f420... (npp.7.7.1.bin.7z)
+    - efc4a3b4aad04892... (npp.7.7.1.bin.minimalist.7z)
+    - 03f0271b0da0dfec... (npp.7.7.1.bin.minimalist.x64.7z)
+    - 528ec2bf90fd409b... (npp.7.7.1.bin.x64.7z)
+    - 0ec1b16b42bcfbb3... (npp.7.7.1.bin.x64.zip)
+    ... and 3 more
+
+[v7.7]
+  Title: Notepad++ release 7.7
+  Date: 2019-05-19T18:38:45Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.7
+  Hashes extracted: 8
+    - a5068f28cb737f2a... (npp.7.7.bin.7z)
+    - b53a40decb3ab080... (npp.7.7.bin.minimalist.7z)
+    - 90b7d885084ecad7... (npp.7.7.bin.minimalist.x64.7z)
+    - 97d8c39276a86a0f... (npp.7.7.bin.x64.7z)
+    - cd44784beb3b9af5... (npp.7.7.bin.x64.zip)
+    ... and 3 more
+
+[v7.6.6]
+  Title: Notepad++ release 7.6.6
+  Date: 2019-04-03T23:23:31Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.6.6
+  Hashes extracted: 8
+    - f4536ede75152615... (npp.7.6.6.bin.7z)
+    - a5bc5448fd52334d... (npp.7.6.6.bin.minimalist.7z)
+    - ece84605f976107a... (npp.7.6.6.bin.minimalist.x64.7z)
+    - a98a11914cc5990e... (npp.7.6.6.bin.x64.7z)
+    - 92cf60d3ef54625a... (npp.7.6.6.bin.x64.zip)
+    ... and 3 more
+
+[v7.6.5]
+  Title: Notepad++ release 7.6.5
+  Date: 2019-03-31T21:42:36Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.6.5
+  Hashes extracted: 8
+    - 04cbb6617b303fed... (npp.7.6.5.bin.7z)
+    - 23565133cc2b0481... (npp.7.6.5.bin.minimalist.7z)
+    - b7376127c608e35a... (npp.7.6.5.bin.minimalist.x64.7z)
+    - c87e25877ff4abba... (npp.7.6.5.bin.x64.7z)
+    - e440cfc67545532f... (npp.7.6.5.installer.exe)
+    ... and 3 more
+
+[v7.6.4]
+  Title: Notepad++ release 7.6.4
+  Date: 2019-03-06T13:32:12Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.6.4
+  Hashes extracted: 24
+    - a49041df72d09be9... (npp.7.6.4.bin.7z)
+    - b98194d1a1b99644... (npp.7.6.4.bin.minimalist.7z)
+    - 5c6e8f22cffa0834... (npp.7.6.4.bin.minimalist.x64.7z)
+    - 70ed089edd98089e... (npp.7.6.4.bin.x64.7z)
+    - 9161f40f632af219... (npp.7.6.4.bin.x64.zip)
+    ... and 19 more
+
+[v7.6.3]
+  Title: Notepad++ release 7.6.3
+  Date: 2019-01-27T22:17:41Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.6.3
+  Hashes extracted: 24
+    - b3d2c031054f6869... (npp.7.6.3.bin.7z)
+    - c55f744076d7ef2a... (npp.7.6.3.bin.minimalist.7z)
+    - 6fdd1604108c66e0... (npp.7.6.3.bin.minimalist.x64.7z)
+    - 76b676fdc3ee174f... (npp.7.6.3.bin.x64.7z)
+    - be5e4e6a118c1358... (npp.7.6.3.bin.x64.zip)
+    ... and 19 more
+
+[v7.6.2]
+  Title: Notepad++ release 7.6.2 Gilet Jaune Edition
+  Date: 2019-01-01T01:51:31Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.6.2
+  Hashes extracted: 16
+    - 36f95ab38489721d... (npp.7.6.2.bin.7z)
+    - 350aab13289b6f2d... (npp.7.6.2.bin.minimalist.7z)
+    - 12c2beaf56573312... (npp.7.6.2.bin.minimalist.x64.7z)
+    - 1a81da47e3a910ac... (npp.7.6.2.bin.x64.7z)
+    - f49b5c42a4200b72... (npp.7.6.2.bin.x64.zip)
+    ... and 11 more
+
+[v7.6.1]
+  Title: Notepad++ release 7.6.1
+  Date: 2018-12-13T02:09:14Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.6.1
+  Hashes extracted: 16
+    - f905fb4c2326bbcf... (npp.7.6.1.bin.7z)
+    - f7803c40e229de5f... (npp.7.6.1.bin.minimalist.7z)
+    - b71fb858120dea4d... (npp.7.6.1.bin.minimalist.x64.7z)
+    - d6b54ba9109e185b... (npp.7.6.1.bin.x64.7z)
+    - d87e1725b53c26ff... (npp.7.6.1.bin.x64.zip)
+    ... and 11 more
+
+[v7.6]
+  Title: Notepad++ release 7.6
+  Date: 2018-11-13T01:36:24Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.6
+  Hashes extracted: 16
+    - 3b3f7570150aa72d... (npp.7.6.bin.x64.zip)
+    - eadca3cadfe1d4f4... (npp.7.6.bin.zip)
+    - f1dfe2f58ab59b5b... (npp.7.6.installer.exe)
+    - d28db0064c3f07e6... (npp.7.6.installer.x64.exe)
+    - 927e8f57a353e0a7... (npp.7.6.bin.7z)
+    ... and 11 more
+
+[v7.5.9]
+  Title: Notepad++ release 7.5.9
+  Date: 2018-10-14T22:59:47Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.5.9
+  Hashes extracted: 16
+    - 7a71ab826492d7a6... (npp.7.5.9.bin.7z)
+    - 46b3caa2bf5cb86d... (npp.7.5.9.bin.minimalist.7z)
+    - 404a8ff292d47be3... (npp.7.5.9.bin.minimalist.x64.7z)
+    - 870b9718403c7deb... (npp.7.5.9.bin.x64.7z)
+    - e630289bfc1277a9... (npp.7.5.9.bin.x64.zip)
+    ... and 11 more
+
+[v7.5.8]
+  Title: Notepad++ release 7.5.8
+  Date: 2018-07-23T22:24:51Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.5.8
+  Hashes extracted: 16
+    - 606e6ca98e057425... (npp.7.5.8.bin.minimalist.7z)
+    - c3354edee474a376... (npp.7.5.8.bin.minimalist.x64.7z)
+    - def5455868fd88bb... (npp.7.5.8.bin.x64.7z)
+    - c9eff5b990c5329a... (npp.7.5.8.bin.x64.zip)
+    - 65c6c7afbdc2da29... (npp.7.5.8.bin.zip)
+    ... and 11 more
+
+[v7.5.7]
+  Title: Notepad++ release 7.5.7
+  Date: 2018-06-30T15:02:40Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.5.7
+  Hashes extracted: 16
+    - 6b5c29e80680d0f9... (npp.7.5.7.bin.x64.zip)
+    - a54716a4ed09bdaa... (npp.7.5.7.bin.x64.7z)
+    - 23acc763a551692f... (npp.7.5.7.bin.minimalist.x64.7z)
+    - 4c83d9e01255f0cc... (npp.7.5.7.bin.minimalist.7z)
+    - d8ebb0dde23fb14b... (npp.7.5.7.bin.7z)
+    ... and 11 more
+
+[v7.5.6]
+  Title: Notepad++ release 7.5.6
+  Date: 2018-03-19T00:51:11Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.5.6
+  Hashes extracted: 16
+    - eae18308d7355af6... (npp.7.5.6.bin.zip)
+    - aa7dc9a36f68c8fd... (npp.7.5.6.bin.x64.zip)
+    - d97b1e6eaf0a770e... (npp.7.5.6.bin.x64.7z)
+    - e24d9c6a29b50377... (npp.7.5.6.bin.minimalist.x64.7z)
+    - a8e1ec0f268f7345... (npp.7.5.6.bin.minimalist.7z)
+    ... and 11 more
+
+[v7.5.5]
+  Title: Notepad++ release 7.5.5
+  Date: 2018-02-27T21:52:11Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.5.5
+  Hashes extracted: 8
+    - ef02fd0bf81ff805... (npp.7.5.5.bin.7z)
+    - 6c2f5e86dce0c7a8... (npp.7.5.5.bin.minimalist.7z)
+    - 3bae15bb76b7c4ff... (npp.7.5.5.bin.minimalist.x64.7z)
+    - 4d61a0e9ed531f2e... (npp.7.5.5.bin.x64.7z)
+    - 95835c6c76997a95... (npp.7.5.5.installer.exe)
+    ... and 3 more
+
+[v7.5.4]
+  Title: Notepad++ release 7.5.4
+  Date: 2018-01-01T02:17:39Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.5.4
+  Hashes extracted: 16
+    - 9633920a02980be6... (npp.7.5.4.bin.7z)
+    - f6f63a8c489410f4... (npp.7.5.4.installer.x64.exe)
+    - c5b0205a3aa9ed2c... (npp.7.5.4.installer.exe)
+    - 2bded4510cbc4ecc... (npp.7.5.4.bin.zip)
+    - 4034e9f182e52c0d... (npp.7.5.4.bin.x64.zip)
+    ... and 11 more
+
+[v7.5.3]
+  Title: Notepad++ release 7.5.3
+  Date: 2017-12-06T00:02:59Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.5.3
+  Hashes extracted: 16
+    - ddcdfe363d4539e3... (npp.7.5.3.bin.7z)
+    - a0f630b168844679... (npp.7.5.3.installer.x64.exe)
+    - 37d4f0cd7395bca5... (npp.7.5.3.installer.exe)
+    - 1255334deadb4434... (npp.7.5.3.bin.zip)
+    - b6813eeb3ffddf9a... (npp.7.5.3.bin.x64.zip)
+    ... and 11 more
+
+[v7.5.2]
+  Title: Notepad++ release 7.5.2
+  Date: 2017-11-27T23:02:16Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.5.2
+  Hashes extracted: 16
+    - a0dc3cbf8abb45d4... (npp.7.5.2.installer.exe)
+    - 1f128a9c8df2a326... (npp.7.5.2.bin.zip)
+    - 9786cd435bfa8161... (npp.7.5.2.bin.x64.zip)
+    - dd2bac0cdd08e368... (npp.7.5.2.bin.x64.7z)
+    - 0b6a7e3a91794438... (npp.7.5.2.bin.minimalist.x64.7z)
+    ... and 11 more
+
+[v7.5.1]
+  Title: Notepad++ release 7.5.1
+  Date: 2017-08-30T00:08:21Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.5.1
+  Hashes extracted: 16
+    - c49d9805a480901c... (npp.7.5.1.installer.x64.exe)
+    - 3580ee07c8d36633... (npp.7.5.1.installer.exe)
+    - b159115e7eaf9975... (npp.7.5.1.bin.zip)
+    - a642652b0c652c0f... (npp.7.5.1.bin.x64.zip)
+    - d945af58606284c1... (npp.7.5.1.bin.x64.7z)
+    ... and 11 more
+
+[v7.5]
+  Title: Notepad++ release 7.5
+  Date: 2017-08-15T23:50:29Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.5
+  Hashes extracted: 16
+    - d465070957be11d0... (npp.7.5.installer.x64.exe)
+    - abd933d283ade159... (npp.7.5.installer.exe)
+    - 42506b50d6de7587... (npp.7.5.bin.zip)
+    - cd544aaa1244405d... (npp.7.5.bin.x64.zip)
+    - a4a8fce7452c0435... (npp.7.5.bin.x64.7z)
+    ... and 11 more
+
+[v7.4.2]
+  Title: Notepad++ release 7.4.2
+  Date: 2017-06-18T21:53:46Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.4.2
+  Hashes extracted: 16
+    - 558536103e712437... (npp.7.4.2.bin.minimalist.7z)
+    - 8c74caee7ce09b85... (npp.7.4.2.bin.7z)
+    - bd2a6ef69c97a1e6... (npp.7.4.2.installer.x64.exe)
+    - 54f638fa6bdeceda... (npp.7.4.2.installer.exe)
+    - dce5f354042e02b3... (npp.7.4.2.bin.zip)
+    ... and 11 more
+
+[v7.4.1]
+  Title: Notepad++ release 7.4.1
+  Date: 2017-05-18T01:28:12Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.4.1
+  Hashes extracted: 16
+    - 4c953575dc6c4144... (npp.7.4.1.bin.7z)
+    - 8994fd81f0043e5f... (npp.7.4.1.installer.x64.exe)
+    - e6844d2be23fcf79... (npp.7.4.1.installer.exe)
+    - a77004a8b8a40167... (npp.7.4.1.bin.zip)
+    - dee8f79cd16fb861... (npp.7.4.1.bin.x64.zip)
+    ... and 11 more
+
+[v7.4]
+  Title: Notepad++ release 7.4
+  Date: 2017-05-14T21:37:13Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.4
+  Hashes extracted: 16
+    - 5bc4504f84789201... (npp.7.4.installer.x64.exe)
+    - 378acfa0a7b65a41... (npp.7.4.installer.exe)
+    - a4915d2e0363f24f... (npp.7.4.bin.zip)
+    - 0a5b1a9b40e63efe... (npp.7.4.bin.x64.zip)
+    - 48c277db5c93ce09... (npp.7.4.bin.x64.7z)
+    ... and 11 more
+
+[v7.3.3]
+  Title: Notepad++ release 7.3.3
+  Date: 2017-03-08T21:17:39Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.3.3
+  Hashes extracted: 16
+    - a9412644493ca61a... (npp.7.3.3.bin.zip)
+    - 26ca836dcc364896... (npp.7.3.3.bin.x64.zip)
+    - 3a2762775677f6ba... (npp.7.3.3.bin.x64.7z)
+    - a4f1c00bb033a17b... (npp.7.3.3.bin.minimalist.x64.7z)
+    - d48ff504d7a33bea... (npp.7.3.3.bin.minimalist.7z)
+    ... and 11 more
+
+[v7.3.2]
+  Title: Notepad++ release 7.3.2
+  Date: 2017-02-14T00:11:25Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.3.2
+  Hashes extracted: 16
+    - f2f3260099d090cd... (npp.7.3.2.installer.x64.exe)
+    - 9ec6f083c6c9874d... (npp.7.3.2.installer.exe)
+    - e32326b860815688... (npp.7.3.2.bin.zip)
+    - c81e940b04baf11d... (npp.7.3.2.bin.x64.zip)
+    - 93328699cf084a3c... (npp.7.3.2.bin.x64.7z)
+    ... and 11 more
+
+[v7.3.1]
+  Title: Notepad++ release 7.3.1
+  Date: 2017-01-17T19:50:18Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.3.1
+  Hashes extracted: 32
+    - 1654f7619b73196f... (npp.7.3.1.installer.x64.exe)
+    - a61f9380255bb154... (npp.7.3.1.installer.exe)
+    - 4b4b214da49b4c46... (npp.7.3.1.bin.zip)
+    - 81020da1c13d94a1... (npp.7.3.1.bin.x64.zip)
+    - d4e07a12ed2252d7... (npp.7.3.1.bin.x64.7z)
+    ... and 27 more
+
+[v7.3]
+  Title: Notepad++ release 7.3
+  Date: 2017-01-01T22:28:42Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.3
+  Hashes extracted: 32
+    - c1e0b163ae709d07... (npp.7.3.bin.7z)
+    - e7306df1d6e81801... (npp.7.3.installer.x64.exe)
+    - d4c403675a21cc38... (npp.7.3.installer.exe)
+    - 84fcfbb6eacd6a7a... (npp.7.3.bin.zip)
+    - 098fe55aee4d0ffd... (npp.7.3.bin.x64.zip)
+    ... and 27 more
+
+[v7.2.2]
+  Title: Notepad++ release 7.2.2
+  Date: 2016-11-27T19:01:32Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.2.2
+  Hashes extracted: 16
+    - 2843612fc9227d3a... (npp.7.2.2.installer.x64.exe)
+    - fc20ea01bd98db48... (npp.7.2.2.installer.exe)
+    - b1a7577981771bd5... (npp.7.2.2.bin.zip)
+    - 128e89c499585cc6... (npp.7.2.2.bin.x64.zip)
+    - 9e83c8f961232f90... (npp.7.2.2.bin.x64.7z)
+    ... and 11 more
+
+[v7.2.1]
+  Title: Notepad++ release 7.2.1
+  Date: 2016-11-20T23:28:38Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.2.1
+  Hashes extracted: 16
+    - be70fb70f7b13efb... (npp.7.2.1.installer.x64.exe)
+    - e627d37c518ff2c4... (npp.7.2.1.installer.exe)
+    - 40122ce825e0e979... (npp.7.2.1.bin.zip)
+    - ad5d292c803e6ad0... (npp.7.2.1.bin.x64.zip)
+    - 7be5bd0e116926d0... (npp.7.2.1.bin.x64.7z)
+    ... and 11 more
+
+[v7.2]
+  Title: Notepad++ release 7.2
+  Date: 2016-11-02T11:09:15Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.2
+  Hashes extracted: 16
+    - 7aea4986f5e17fae... (npp.7.2.bin.minimalist.x64.7z)
+    - 29ffc022abc07755... (npp.7.2.bin.minimalist.7z)
+    - 03a36326266ccf22... (npp.7.2.bin.7z)
+    - 28b49e562a930570... (npp.7.2.installer.x64.exe)
+    - 01c239f67ad3c1f6... (npp.7.2.installer.exe)
+    ... and 11 more
+
+[v7.1]
+  Title: Notepad++ release 7.1
+  Date: 2016-10-16T14:24:15Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7.1
+  Hashes extracted: 16
+    - bd4c707e3c83c3c8... (npp.7.1.bin.7z)
+    - a5933ee842b2d03a... (npp.7.1.installer.x64.exe)
+    - 83a58f88a471e0b4... (npp.7.1.installer.exe)
+    - bc7a2eecbe262c9f... (npp.7.1.bin.zip)
+    - 65563951e8c38bfc... (npp.7.1.bin.x64.zip)
+    ... and 11 more
+
+[v7]
+  Title: Notepad++ release 7
+  Date: 2016-09-22T00:14:52Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v7
+  Hashes extracted: 16
+    - f354424c907380bf... (npp.7.bin.x64.7z)
+    - 6a037cda3cff471f... (npp.7.bin.minimalist.x64.7z)
+    - 44c31c351529e5eb... (npp.7.bin.minimalist.7z)
+    - c9c1da0cdf9cef6a... (npp.7.bin.7z)
+    - 52af12274fd17ad3... (npp.7.installer.x64.exe)
+    ... and 11 more
+
+[v6.9.2]
+  Title: Notepad++ 6.9.2 release
+  Date: 2016-05-17T23:54:12Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v6.9.2
+  Hashes extracted: 8
+    - 83c39f7920d885f8... (npp.6.9.2.bin.7z)
+    - a1cb2d6f648c60a4... (npp.6.9.2.bin.minimalist.7z)
+    - f54ad3ab149e5c7a... (npp.6.9.2.bin.zip)
+    - 6a54e0e8c8dbfca6... (npp.6.9.2.installer.exe)
+    - 83c39f7920d885f8... (npp.6.9.2.bin.7z)
+    ... and 3 more
+
+[v6.9.1]
+  Title: Notepad++ 6.9.1 release
+  Date: 2016-03-28T20:52:41Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v6.9.1
+  Hashes extracted: 4
+    - f00e519dbb82917b... (npp.6.9.1.bin.7z)
+    - c251accc8c315a6e... (npp.6.9.1.bin.minimalist.7z)
+    - 343c17e4a4a222e8... (npp.6.9.1.bin.zip)
+    - 28d8a6ad14574f65... (npp.6.9.1.installer.exe)
+
+[v6.9]
+  Title: Notepad++ 6.9 release
+  Date: 2016-02-22T13:09:10Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v6.9
+  Hashes extracted: 4
+    - ae3fdb8c9d104a2e... (npp.6.9.bin.7z)
+    - a6f3a37d71f28df6... (npp.6.9.bin.minimalist.7z)
+    - 88767f7410a3cb43... (npp.6.9.bin.zip)
+    - 99d3507a8eab110b... (npp.6.9.installer.exe)
+
+[v6.8.9]
+  Title: Notepad++ 6.8.9 release
+  Date: 2016-01-13T21:47:40Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v6.8.9
+  Hashes extracted: 4
+    - 5a1c712a31cef60d... (npp.6.8.9.installer.exe)
+    - 65a5529ae9b5d122... (npp.6.8.9.bin.7z)
+    - 6256cf6d5c6ec521... (npp.6.8.9.bin.minimalist.7z)
+    - 651c784c7e975a01... (npp.6.8.9.bin.zip)
+
+[v6.8.8]
+  Title: Notepad++ 6.8.8 release
+  Date: 2015-12-10T00:52:07Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v6.8.8
+  Hashes extracted: 4
+    - 5df8273321a5278c... (npp.6.8.8.bin.minimalist.7z)
+    - 68c5f37d014fc790... (npp.6.8.8.bin.zip)
+    - c10ab08249f238d6... (npp.6.8.8.installer.exe)
+    - 3bde115f217a165d... (npp.6.8.8.bin.7z)
+
+[v6.8.7]
+  Title: Notepad++ 6.8.7 release
+  Date: 2015-11-27T08:45:21Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v6.8.7
+  Hashes extracted: 4
+    - 9ffb9a58a2a2480b... (npp.6.8.7.installer.exe)
+    - b53de41a02f83924... (npp.6.8.7.bin.7z)
+    - b5991cc670d7e72d... (npp.6.8.7.bin.minimalist.7z)
+    - 7ade019cafea3cce... (npp.6.8.7.bin.zip)
+
+[v6.8.6]
+  Title: Notepad++ 6.8.6 release
+  Date: 2015-10-29T18:15:20Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v6.8.6
+  Hashes extracted: 4
+    - 40785d78ecde8c45... (npp.6.8.6.bin.minimalist.7z)
+    - c021d02935e28f3a... (npp.6.8.6.bin.zip)
+    - 2daca44b863dd37a... (npp.6.8.6.installer.exe)
+    - 25c5cb86e9eefe4c... (npp.6.8.6.bin.7z)
+
+[v6.8.5]
+  Title: Notepad++ 6.8.5 release
+  Date: 2015-10-18T22:35:27Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v6.8.5
+  Hashes extracted: 4
+    - bc9e476c8d17d609... (npp.6.8.5.bin.7z)
+    - 14ecc1afa8f2737a... (npp.6.8.5.bin.minimalist.7z)
+    - 6a9bb771cacb1c6e... (npp.6.8.5.bin.zip)
+    - 88024d292c6b15df... (npp.6.8.5.installer.exe)
+
+[v6.8.4]
+  Title: Notepad++ 6.8.4 release
+  Date: 2015-10-16T21:12:49Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v6.8.4
+  Hashes extracted: 4
+    - e8bfca7a67c094f0... (npp.6.8.4.installer.exe)
+    - 359ef30509e86891... (npp.6.8.4.bin.7z)
+    - ca74743d120cc2a4... (npp.6.8.4.bin.minimalist.7z)
+    - 9c76b48f96f29487... (npp.6.8.4.bin.zip)
+
+[v6.8.3]
+  Title: Notepad++ 6.8.3 release
+  Date: 2015-09-04T18:30:21Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v6.8.3
+  Hashes extracted: 4
+    - ff5f7b2b0ad07dd1... (npp.6.8.3.bin.7z)
+    - e79727707b37f66a... (npp.6.8.3.bin.minimalist.7z)
+    - d94a0a6372ba0783... (npp.6.8.3.bin.zip)
+    - b773b439b7a2deea... (npp.6.8.3.installer.exe)
+
+[v6.8.2]
+  Title: Notepad++ 6.8.2 release
+  Date: 2015-08-20T00:50:23Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v6.8.2
+  Hashes extracted: 4
+    - ec03360e1628f53e... (npp.6.8.2.bin.7z)
+    - 92858270f0a56837... (npp.6.8.2.bin.minimalist.7z)
+    - 13e52639aa7de8b3... (npp.6.8.2.bin.zip)
+    - fe48f3107165928e... (npp.6.8.2.installer.exe)
+
+[v6.8.1]
+  Title: Notepad++ 6.8.1 release
+  Date: 2015-08-03T23:54:37Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v6.8.1
+  Hashes extracted: 4
+    - 90cc3844e8bd407f... (npp.6.8.1.bin.7z)
+    - 92b6c7eb4ce84f7d... (npp.6.8.1.bin.minimalist.7z)
+    - be493c1d423d1ddc... (npp.6.8.1.bin.zip)
+    - d2ce3ab2d7dee81d... (npp.6.8.1.installer.exe)
+
+[v6.8]
+  Title: Notepad++ 6.8 release
+  Date: 2015-07-21T22:02:03Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v6.8
+  Hashes extracted: 4
+    - a35bcc0378c77211... (npp.6.8.bin.7z)
+    - 8874b3e6239a8dae... (npp.6.8.bin.minimalist.7z)
+    - 3a9b2d9be4afcd9b... (npp.6.8.bin.zip)
+    - 57d46c09de8a82b0... (npp.6.8.installer.exe)
+
+[v6.7.9.2]
+  Title: Notepad++ 6.7.9.2 release
+  Date: 2015-06-22T22:16:43Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v6.7.9.2
+  Hashes extracted: 4
+    - 1ea17a97447276e3... (npp.6.7.9.2.bin.7z)
+    - a7745b26e9dde2ea... (npp.6.7.9.2.bin.minimalist.7z)
+    - 86f1f919dfd0403f... (npp.6.7.9.2.bin.zip)
+    - 34574fb2e4e06ff9... (npp.6.7.9.2.installer.exe)
+
+[v6.7.9.1]
+  Title: Notepad++ 6.7.9.1 release
+  Date: 2015-06-21T09:07:13Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v6.7.9.1
+  Hashes extracted: 4
+    - 57fdd35ad4e63f42... (npp.6.7.9.1.installer.exe)
+    - fffa4d9914124fcd... (npp.6.7.9.1.bin.7z)
+    - 2874d14eb4f8518e... (npp.6.7.9.1.bin.minimalist.7z)
+    - 4c539bb9b4d7382f... (npp.6.7.9.1.bin.zip)
+
+[v6.7.9]
+  Title: Notepad++ 6.7.9 release
+  Date: 2015-06-12T00:13:01Z
+  Prerelease: False
+  URL: https://github.com/notepad-plus-plus/notepad-plus-plus/releases/tag/v6.7.9
+  Hashes extracted: 4
+    - 09b2951ed1bdfced... (npp.6.7.9.bin.7z)
+    - 905b8bf6621e9f04... (npp.6.7.9.bin.minimalist.7z)
+    - 22a8912309859a69... (npp.6.7.9.bin.zip)
+    - da6c0c700f0f65b2... (npp.6.7.9.installer.exe)
+
+======================================================================
+Finished: 2026-02-02T11:47:37.168687+00:00

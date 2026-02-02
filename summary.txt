@@ -1,0 +1,60 @@
+======================================================================
+NOTEPAD++ RELEASE HASHES - SUMMARY REPORT
+======================================================================
+
+Generated: 2026-02-02T11:47:37.164475+00:00
+Repository: notepad-plus-plus/notepad-plus-plus
+GitHub URL: https://github.com/notepad-plus-plus/notepad-plus-plus
+
+----------------------------------------------------------------------
+PROCESSING STATISTICS
+----------------------------------------------------------------------
+Total releases processed:     134
+Releases with checksum:       124
+Releases without checksum:    10
+
+----------------------------------------------------------------------
+HASH STATISTICS
+----------------------------------------------------------------------
+Total hash rows extracted:    1449
+Unique hash values:           1373
+Duplicate hash entries:       76
+
+----------------------------------------------------------------------
+DUPLICATE HASHES (same hash appears multiple times)
+----------------------------------------------------------------------
+  1654f7619b73196f... (2 occurrences)
+  a61f9380255bb154... (2 occurrences)
+  4b4b214da49b4c46... (2 occurrences)
+  81020da1c13d94a1... (2 occurrences)
+  d4e07a12ed2252d7... (2 occurrences)
+  ebb53a299e5c5112... (2 occurrences)
+  d2c597eda9cee42c... (2 occurrences)
+  3c7a081983b4d542... (2 occurrences)
+  d2fb9fcabc3f1b3f... (2 occurrences)
+  516e740bc4920694... (2 occurrences)
+  5c87db3a396ccce4... (2 occurrences)
+  bbd904aa4db6d4ba... (2 occurrences)
+  55139eeab7235ba2... (2 occurrences)
+  49326bc851812ab7... (2 occurrences)
+  a513678948e2a5ed... (2 occurrences)
+  6e98bf478007a42c... (2 occurrences)
+  c1e0b163ae709d07... (2 occurrences)
+  e7306df1d6e81801... (2 occurrences)
+  d4c403675a21cc38... (2 occurrences)
+  84fcfbb6eacd6a7a... (2 occurrences)
+
+----------------------------------------------------------------------
+ALGORITHM BREAKDOWN
+----------------------------------------------------------------------
+  sha256: 933
+  sha1: 332
+  md5: 184
+
+----------------------------------------------------------------------
+SOURCE LOCATION BREAKDOWN
+----------------------------------------------------------------------
+  checksum_asset: 893
+  release_body: 556
+
+======================================================================
